@@ -1,2 +1,2 @@
 # SafeText
-A Comment Toxicity Classifier
+A Comment Toxicity Classifier using Deep Learning.
